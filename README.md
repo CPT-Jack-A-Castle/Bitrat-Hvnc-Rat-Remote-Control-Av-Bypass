@@ -10,7 +10,7 @@
 ![resim](https://user-images.githubusercontent.com/104153626/164756784-086f9737-8f6d-4e98-943f-fa657c98ff8a.png)
 
 ## Info
-BitRAT CrackedIt is coded in C++ programming language. It is the latest version of the best PC RAT 2022 in the market. It is used by hackers to remotely access their victims.
+BitRAT CrackedIt is coded in C++ programming language. It is the latest version of the best PC RAT 2022 in the market. It is used by hackers to remotely access their victims..
 
 
 
